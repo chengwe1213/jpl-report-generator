@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app.py"
+  },
+  "python": {
+    "version": "3.11.0",
+    "package_manager": {
+      "name": "pip",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "app.py": {
+      "checksum": ""
+    },
+    "fill_report.py": {
+      "checksum": ""
+    },
+    "requirements.txt": {
+      "checksum": ""
+    }
+  }
+}
